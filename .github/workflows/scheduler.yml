@@ -32,4 +32,4 @@ jobs:
         with:
           commit_message: "docs: Auto-generate reports"
           file_pattern: "*.csv *.html"
-           commit_author: "Kavya Gupta <guptakavyaa31@gmail.com>"
+          commit_author: "Kavya Gupta <guptakavyaa31@gmail.com>"
